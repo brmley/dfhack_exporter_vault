@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "8c0a1d1a2f5d7314",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb363c63dd57ba71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71c005c51bb8b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dwarf/Sibrek Cudgeldies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sibrek Cudgeldies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91bc202781e6df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f959ceb203d68ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55eb37a41f441d05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cec8ecd33e6b1f9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:novice_negotiator",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f9dee18c8135c93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "889629192841474f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dwarf/Avuz Lessoncudgels.belief.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Avuz Lessoncudgels.belief"
+            }
+          },
+          {
+            "id": "d8ffac77054c2d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dwarf/Avuz Lessoncudgels.belief.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Avuz Lessoncudgels.belief"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "fb9facef1b73b180",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d35605d768f5e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99fedac746b769b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ca1abc50b63cdd80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dwarf/Udib Crushcobalt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Udib Crushcobalt"
+            }
+          },
+          {
+            "id": "540f915aa7cb335d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58c0e346b53aafa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f2d4c11b912dbde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dwarf/Tulon Fatedtraded.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tulon Fatedtraded"
+            }
+          },
+          {
+            "id": "914c8703150ca911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dwarf/Cerol Diamondescorts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cerol Diamondescorts"
+            }
+          },
+          {
+            "id": "2531ff4ce2cce280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dwarf/Ustuth Gripoil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ustuth Gripoil"
+            }
+          },
+          {
+            "id": "9ee2fb2f8f3da19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dwarf/Ustuth Gripoil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ustuth Gripoil"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f71c005c51bb8b35",
+  "lastOpenFiles": [
+    "Новый текстовый документ.txt",
+    "dwarf/Imush Letterglaze.md",
+    "dictionary/bielieves_all.base",
+    "dwarf/teb Townswims.belief.md",
+    "dwarf/Obok Whirledsabres.belief.md",
+    "dwarf/Lr Confinedboard.belief.md",
+    "dwarf/Id Paintedbelted.belief.md",
+    "dwarf/Adil Cavescorching.belief.md",
+    "dwarf/Aban Paddlefolds.belief.md",
+    "dwarf/Zuntr Nettower.belief.md",
+    "dictionary/skills_all.base",
+    "dwarf/Rith Womenboulder.belief.md",
+    "dwarf/Rith Womenboulder.md",
+    "dwarf/Rith Womenboulder.child.md",
+    "Untitled.md",
+    "dictionary/attribute_all.base",
+    "dwarf/Adil Cavescorching.md",
+    "dwarf/Adil Cavescorching.child.md",
+    "dwarf/Amost Earthcalled.relation.md",
+    "dwarf/Amost Earthcalled.skill.md",
+    "dwarf/Asmel Tourmirrored.belief.md",
+    "dwarf/Adil Soldurns.md",
+    "dwarf/Adil Soldurns.relation.md",
+    "dwarf/Adil Cavescorching.relation.md",
+    "dwarf/Meng Machineringed.md",
+    "dwarf/Meng Machineringed.belief.md",
+    "dictionary/ranks description/attributes_rank.md",
+    "dictionary/ranks description/skills_rank.md",
+    "dictionary/ranks description/belief_rank.md",
+    "Untitled.canvas",
+    "dictionary",
+    "Untitled 1.base",
+    "dictionary/ranks description/skills_rank.lua",
+    "dictionary/ranks description",
+    "Новая папка",
+    "Pasted image 20260228201650.png",
+    "units/Tok McUrist/relations",
+    "units/Tok McUrist"
+  ]
+}

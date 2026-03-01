@@ -1,0 +1,48 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "belief"
+    order:
+      - file.name
+      - ARTWORK
+      - COMMERCE
+      - COMPETITION
+      - COOPERATION
+      - CRAFTSMANSHIP
+      - CUNNING
+      - DECORUM
+      - ELOQUENCE
+      - FAIRNESS
+      - FAMILY
+      - FRIENDSHIP
+      - HARD_WORK
+      - HARMONY
+      - INDEPENDENCE
+      - INTROSPECTION
+      - KNOWLEDGE
+      - LAW
+      - LEISURE_TIME
+      - LOYALTY
+      - MARTIAL_PROWESS
+      - MERRIMENT
+      - NATURE
+      - PEACE
+      - PERSEVERENCE
+      - POWER
+      - ROMANCE
+      - SACRIFICE
+      - SELF_CONTROL
+      - SKILL
+      - STOICISM
+      - TRADITION
+      - TRANQUILITY
+      - TRUTH
+    sort:
+      - property: CRAFTSMANSHIP
+        direction: ASC
+      - property: FRIENDSHIP
+        direction: DESC
+      - property: SACRIFICE
+        direction: DESC

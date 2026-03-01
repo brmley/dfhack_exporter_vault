@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "[\"type\":unit OR child]",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"sex\":\"she\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16711816
+      }
+    },
+    {
+      "query": "[\"sex\":\"he\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16257554
+      }
+    },
+    {
+      "query": "[\"type\":\"attributes\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9304041
+      }
+    },
+    {
+      "query": "[\"type\":\"child\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14738198
+      }
+    },
+    {
+      "query": "[\"type\":\"relations\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "[\"type\":\"skills\"]",
+      "color": {
+        "a": 1,
+        "rgb": 3967151
+      }
+    },
+    {
+      "query": "[\"race\":\"elven\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1867776
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.192708333333333,
+  "repelStrength": 11.7708333333333,
+  "linkStrength": 0.90625,
+  "linkDistance": 50,
+  "scale": 0.7514342322277567,
+  "close": false
+}

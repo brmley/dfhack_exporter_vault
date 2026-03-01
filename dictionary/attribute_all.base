@@ -1,0 +1,99 @@
+properties:
+  file.name:
+    displayName: Unit
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "attributes"
+    order:
+      - file.name
+      - STRENGTH
+      - STRENGTH_maxValue
+      - AGILITY
+      - AGILITY_maxValue
+      - TOUGHNESS
+      - TOUGHNESS_maxValue
+      - ENDURANCE
+      - ENDURANCE_maxValue
+      - RECUPERATION
+      - RECUPERATION_maxValue
+      - DISEASE_RESISTANCE
+      - DISEASE_RESISTANCE_maxValue
+      - SPATIAL_SENSE
+      - SPATIAL_SENSE_maxValue
+      - KINESTHETIC_SENSE
+      - KINESTHETIC_SENSE_maxValue
+      - ANALYTICAL_ABILITY
+      - ANALYTICAL_ABILITY_maxValue
+      - FOCUS
+      - FOCUS_maxValue
+      - WILLPOWER
+      - WILLPOWER_maxValue
+      - CREATIVITY
+      - CREATIVITY_maxValue
+      - INTUITION
+      - INTUITION_maxValue
+      - PATIENCE
+      - PATIENCE_maxValue
+      - MEMORY
+      - MEMORY_maxValue
+      - LINGUISTIC_ABILITY
+      - LINGUISTIC_ABILITY_maxValue
+      - EMPATHY
+      - EMPATHY_maxValue
+      - SOCIAL_AWARENESS
+      - SOCIAL_AWARENESS_maxValue
+      - MUSICALITY
+      - MUSICALITY_maxValue
+      - sex
+      - race
+      - orientation
+      - id
+      - age
+      - file.tags
+    sort:
+      - property: STRENGTH
+        direction: DESC
+      - property: MEMORY_maxValue
+        direction: ASC
+      - property: LINGUISTIC_ABILITY_maxValue
+        direction: DESC
+      - property: EMPATHY_maxValue
+        direction: ASC
+      - property: file.tags
+        direction: DESC
+    columnSize:
+      note.STRENGTH: 115
+      note.STRENGTH_maxValue: 50
+      note.AGILITY_maxValue: 62
+      note.TOUGHNESS_maxValue: 55
+      note.ENDURANCE_maxValue: 55
+      note.RECUPERATION: 125
+      note.RECUPERATION_maxValue: 52
+      note.DISEASE_RESISTANCE: 156
+      note.DISEASE_RESISTANCE_maxValue: 44
+      note.SPATIAL_SENSE: 62
+      note.SPATIAL_SENSE_maxValue: 49
+      note.KINESTHETIC_SENSE_maxValue: 53
+      note.ANALYTICAL_ABILITY_maxValue: 49
+      note.FOCUS_maxValue: 52
+      note.WILLPOWER_maxValue: 46
+      note.CREATIVITY_maxValue: 56
+      note.INTUITION: 88
+      note.INTUITION_maxValue: 42
+      note.PATIENCE: 95
+      note.PATIENCE_maxValue: 42
+      note.MEMORY: 89
+      note.MEMORY_maxValue: 58
+      note.LINGUISTIC_ABILITY: 146
+      note.LINGUISTIC_ABILITY_maxValue: 52
+      note.EMPATHY_maxValue: 78
+      note.SOCIAL_AWARENESS: 155
+      note.SOCIAL_AWARENESS_maxValue: 59
+      note.MUSICALITY: 105
+      note.MUSICALITY_maxValue: 56
+      note.orientation: 115
+  - type: table
+    name: View
