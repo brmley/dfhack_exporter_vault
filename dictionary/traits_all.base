@@ -1,0 +1,58 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "trait"
+    order:
+      - file.name
+      - ABSTRACT_INCLINED
+      - ACTIVITY_LEVEL
+      - ALTRUISM
+      - AMBITION
+      - ANGER_PROPENSITY
+      - ANXIETY_PROPENSITY
+      - ART_INCLINED
+      - ASSERTIVENESS
+      - BASHFUL
+      - BRAVERY
+      - CHEER_PROPENSITY
+      - CLOSEMINDED
+      - CONFIDENCE
+      - CRUELTY
+      - CURIOUS
+      - DEPRESSION_PROPENSITY
+      - DISCORD
+      - DISDAIN_ADVICE
+      - DUTIFULNESS
+      - EMOTIONALLY_OBSESSIVE
+      - ENVY_PROPENSITY
+      - EXCITEMENT_SEEKING
+      - FRIENDLINESS
+      - GRATITUDE
+      - GREED
+      - GREGARIOUSNESS
+      - HATE_PROPENSITY
+      - HOPEFUL
+      - HUMOR
+      - IMAGINATION
+      - IMMODERATION
+      - IMMODESTY
+      - LOVE_PROPENSITY
+      - LUST_PROPENSITY
+      - ORDERLINESS
+      - PERFECTIONIST
+      - PERSEVERENCE
+      - POLITENESS
+      - PRIDE
+      - PRIVACY
+      - SINGLEMINDED
+      - STRESS_VULNERABILITY
+      - SWAYED_BY_EMOTIONS
+      - THOUGHTLESSNESS
+      - TOLERANT
+      - TRUST
+      - VANITY
+      - VENGEFUL
+      - VIOLENT
+      - WASTEFULNESS

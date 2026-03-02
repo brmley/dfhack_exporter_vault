@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dwarf/Sibrek Cudgeldies.md",
+                "file": "dwarf/Ducim Razordents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sibrek Cudgeldies"
+              "title": "Ducim Razordents"
             }
           }
         ]
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,43 +252,43 @@
   },
   "active": "f71c005c51bb8b35",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
-    "dwarf/Imush Letterglaze.md",
-    "dictionary/bielieves_all.base",
-    "dwarf/teb Townswims.belief.md",
-    "dwarf/Obok Whirledsabres.belief.md",
-    "dwarf/Lr Confinedboard.belief.md",
-    "dwarf/Id Paintedbelted.belief.md",
-    "dwarf/Adil Cavescorching.belief.md",
-    "dwarf/Aban Paddlefolds.belief.md",
-    "dwarf/Zuntr Nettower.belief.md",
+    "dwarf/Ducim Razordents.trait.md",
+    "dwarf/Ducim Razordents.md",
+    "dwarf/Ducim Razordents.belief.md",
+    "dwarf/Ducim Razordents.skill.md",
+    "dictionary/traits_all.base",
     "dictionary/skills_all.base",
-    "dwarf/Rith Womenboulder.belief.md",
-    "dwarf/Rith Womenboulder.md",
-    "dwarf/Rith Womenboulder.child.md",
-    "Untitled.md",
     "dictionary/attribute_all.base",
-    "dwarf/Adil Cavescorching.md",
-    "dwarf/Adil Cavescorching.child.md",
-    "dwarf/Amost Earthcalled.relation.md",
-    "dwarf/Amost Earthcalled.skill.md",
-    "dwarf/Asmel Tourmirrored.belief.md",
-    "dwarf/Adil Soldurns.md",
-    "dwarf/Adil Soldurns.relation.md",
-    "dwarf/Adil Cavescorching.relation.md",
-    "dwarf/Meng Machineringed.md",
-    "dwarf/Meng Machineringed.belief.md",
-    "dictionary/ranks description/attributes_rank.md",
-    "dictionary/ranks description/skills_rank.md",
-    "dictionary/ranks description/belief_rank.md",
+    "dwarf/Kol Knightedclasped.trait.md",
+    "dwarf/Kol Knightedclasped.md",
+    "dwarf/Uzol Basementjumped.child.md",
+    "dwarf/Lr Cobaltsystems.belief.md",
+    "dwarf/Dbar Tombenter.trait.md",
+    "dwarf/Edm Scouredlashed.trait.md",
+    "dwarf/Dumat Meetingpaints.trait.md",
+    "dwarf/Zasit Anvilyore.trait.md",
+    "dwarf/Ubbul Inkash.trait.md",
+    "dwarf/Onget Dunestrades.trait.md",
+    "dwarf/Oddom Glidedworks.trait.md",
+    "dwarf/Meng Machineringed.trait.md",
+    "dwarf/zum Glazedbolt.trait.md",
+    "dwarf/Thob Shovedearthen.trait.md",
+    "dwarf/Mosus Indigotreaties.trait.md",
+    "dwarf/Rsen Stoppedsteel.trait.md",
+    "dwarf/Tulon Fatedtraded.trait.md",
+    "dwarf/Lr Wheeledfleshes.trait.md",
+    "dwarf/Logem Brushedrags.trait.md",
+    "dwarf/Mafol Gateletter.trait.md",
+    "dwarf/Thob Focuscanyons.trait.md",
+    "dwarf/Adil Soldurns.trait.md",
+    "dictionary/bielieves_all.base",
+    "Новый текстовый документ.txt",
     "Untitled.canvas",
     "dictionary",
     "Untitled 1.base",
     "dictionary/ranks description/skills_rank.lua",
     "dictionary/ranks description",
     "Новая папка",
-    "Pasted image 20260228201650.png",
-    "units/Tok McUrist/relations",
-    "units/Tok McUrist"
+    "Pasted image 20260228201650.png"
   ]
 }
